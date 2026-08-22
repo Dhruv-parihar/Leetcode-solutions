@@ -15,6 +15,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Trie
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Backtracking
@@ -73,4 +75,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
