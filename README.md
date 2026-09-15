@@ -98,4 +98,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
