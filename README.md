@@ -24,6 +24,7 @@
 | [0022-generate-parentheses](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Dhruv-parihar/Leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
